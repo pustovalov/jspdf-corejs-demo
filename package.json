@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.2",
-    "jspdf": "^1.5.3"
+    "jspdf": "^2.2.0"
   },
   "resolutions": {
     "caniuse-lite": "^1.0.30001158"
