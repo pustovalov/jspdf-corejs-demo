@@ -1,5 +1,5 @@
 <script>
-  import jsPDF from 'jspdf'
+  import Canvg from 'canvg'
 </script>
 
 <div>

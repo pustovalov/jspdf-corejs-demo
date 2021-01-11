@@ -53,8 +53,8 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "core-js": "^3.8.2",
-    "jspdf": "^2.2.0"
+    "canvg": "1.5.3",
+    "core-js": "^3.8.2"
   },
   "resolutions": {
     "caniuse-lite": "^1.0.30001158"
